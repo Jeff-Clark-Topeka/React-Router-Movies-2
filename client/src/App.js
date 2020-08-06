@@ -28,7 +28,7 @@ const App = () => {
   return (
     <div>
       <SavedList list={[ /* This is stretch */]} />
-      <div>Replace this Div with your Routes</div>
+      <div>Replace this Div with your Routes.</div>
     </div>
   );
 };
